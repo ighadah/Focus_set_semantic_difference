@@ -8,4 +8,4 @@ java -jar ELH_UI_DIFF_PCK_7-3_NDR.jar <ontology_path_1/O_1.owl> <ontology_path_2
 
 The jar file: ELH_UI_DIFF_PCK_7-3_NDR.jar is based on the ELH forgetter developed by [gdhzLZ](https://github.com/gdhzLZ/ELH-forgetting).
 
-All the data for the experiments described in Section 5.5 of my thesis is [here](https://drive.google.com/drive/folders/1y1WCpXCI0BvlHnGFQxHZO9qywbFb-i23?usp=sharing).
+All the data for the experiments described in Section 6.5 of my thesis is [here](https://drive.google.com/drive/folders/1y1WCpXCI0BvlHnGFQxHZO9qywbFb-i23?usp=sharing).
